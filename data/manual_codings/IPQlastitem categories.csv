@@ -1,0 +1,298 @@
+record_id,redcap_event_name,st_most_important,nd_most_important,rd_most_important,rowkey,cat1,cat2,cat3
+12,t1_arm_1,"Curved spine","Lots of driving","Lots of tension in my body",1,spinal condition,sedentary,physiology (non-spinal)
+12,t2_arm_1,"Poor sleep habits/bed","Lots of time driving","Pre-existing back condition",2,other,sedentary,spinal condition
+13,t1_arm_1,"injury","reinjury","damage to nervs",3,injury,injury,physiology (non-spinal)
+14,t1_arm_1,"scoliosis","ruptured discs","age",4,spinal condition,spinal condition,age
+14,t2_arm_1,"scoliosis","degenerated discs","age",5,spinal condition,spinal condition,age
+15,t1_arm_1,"Car Accident","Football Injury","Improper lifting",6,injury,injury,activity
+15,t2_arm_1,"Car accident","Football injury","poor lifting",7,injury,injury,activity
+18,t1_arm_1,"bad sleep posture","overexertion","bad posture in genral",8,posture,activity,posture
+18,t2_arm_1,"bad posture","incorrect mattress type","advancing age",9,posture,other,age
+23,t1_arm_1,"work as a massage therapist","inadequate self-care","mattress",10,job,negligence,other
+23,t2_arm_1,"work (as a massage therapist)","stress","poor posture",11,job,stress,posture
+24,t1_arm_1,"injury","poor posture","time",12,injury,posture,age
+24,t2_arm_1,"my thoughts","People around me","Doctors",13,psychological,psychological,other
+29,t1_arm_1,"traumatic injury","determination to be active despite pain","stress",14,injury,activity,stress
+29,t2_arm_1,"Traumatic injury","Stress/Anxiety","Repressed emotions",15,injury,stress,psychological
+32,t1_arm_1,"muscle imbalance","injury from hockey","family history",16,physiology (non-spinal),injury,hereditary
+32,t2_arm_1,"pain signals after an injury","not taking care of my core/back","Family history",17,brain,negligence,hereditary
+38,t1_arm_1,"sitting at a computer for many years","age","genetics",18,sedentary,age,hereditary
+38,t2_arm_1,"stress","genetics","sitting at a computer all day",19,stress,hereditary,sedentary
+51,t1_arm_1,"Lack of proper exercise","sedentary lifestyle","unhealthy diet",20,negligence,sedentary,diet
+51,t2_arm_1,"Lack of exercise","sedentary lifestyle","unhealthy diet",21,sedentary,sedentary,diet
+61,t1_arm_1,"previous injury","sitting at a desk job","being too active",22,injury,sedentary,activity
+61,t2_arm_1,"previous injury","sitting at work all the time","recent injury playing volleyball",23,injury,sedentary,injury
+67,t1_arm_1,"Stress from a job","Car accident that impacted spine","Having mostly desk jobs",24,stress,injury,sedentary
+69,t1_arm_1,"self adustiments (cracking)","Biking","poor posture",25,injury,activity,posture
+69,t2_arm_1,"self adjustments","Cycling","past injuries",26,activity,activity,injury
+72,t1_arm_1,"arthritis","failed psoas","whatever caused the above",27,spinal condition,physiology (non-spinal),other
+72,t2_arm_1,"arthritis","injury","genetics",28,spinal condition,injury,hereditary
+79,t1_arm_1,"illness/not taking care of myself","weight","stress",29,negligence,weight,stress
+79,t2_arm_1,"Celiac/vitamin deficiency","stress","age",30,physiology (non-spinal),stress,age
+85,t1_arm_1,"injury","posture","?",31,injury,posture,other
+87,t1_arm_1,"Age","lifting a baby/toddler daily","Heredity?",32,age,perinatal,hereditary
+87,t2_arm_1,"Age","Lifting a baby/toddler","Heredity",33,age,activity,hereditary
+96,t1_arm_1,"Back injury","gymnastics","car accident",34,injury,activity,injury
+96,t2_arm_1,"Lift injury","car accident","gymnastics",35,injury,injury,activity
+102,t1_arm_1,"Back Pain","Arthritis","Mental Attitude",36,other,spinal condition,psychological
+102,t2_arm_1,"Fibromyalgia","Anxiety","Depression",37,other,psychological,psychological
+103,t1_arm_1,"run over by vehicle as a pedestrian","spine,pelvic,cervical damage and TBI","permanent injuries",38,injury,spinal condition,injury
+103,t2_arm_1,"being run over by truck,as a pedestrian","permanent physical damage","aging",39,injury,injury,age
+104,t1_arm_1,"work-related stress","anxiety disorder","posture",40,stress,psychological,posture
+104,t2_arm_1,"anxiety disorder","posture","stressful job",41,psychological,posture,stress
+106,t1_arm_1,"Being at a desk job all my life","Bad posture","Being overweight",42,activity,posture,weight
+108,t1_arm_1,"child-bearing and carrying","weak butt muscles","hereditary back issues",43,perinatal,physiology (non-spinal),hereditary
+108,t2_arm_1,"pregnancy","carrying around the babies","weak core/glutes",44,perinatal,perinatal,physiology (non-spinal)
+112,t1_arm_1,"injury","diet","drugs/alcohol",45,injury,diet,other
+112,t2_arm_1,"past conditioning","fear","anxiety",46,psychological,psychological,psychological
+113,t1_arm_1,"degenerative disc disease  multi-level","Nerve entrapment and damage causing chronic neuropathic  Pain","Chronic inflammation",47,spinal condition,spinal condition,physiology (non-spinal)
+113,t2_arm_1,"nwevw compression in hip","feeling afraid when I expereince pain and feeling there is nothing i can do","Not listening and attending to my needs and doing too much for other people instead of attending to what i ned",48,spinal condition,psychological,psychological
+115,t1_arm_1,"Age","Falls","Sedentary work/lifestyle",49,age,injury,sedentary
+115,t2_arm_1,"Morning routine","Expectation of pain","Nerves",50,activity,psychological,psychological
+117,t1_arm_1,"heavy lifting","disc disease","child birth",51,activity,spinal condition,perinatal
+117,t2_arm_1,"anxiety","muscle tension","mom",52,psychological,physiology (non-spinal),perinatal
+125,t1_arm_1,"degenerative arthritis","age","activity",53,spinal condition,age,activity
+125,t2_arm_1,"arthritis","fascial entrapment","psychological response to perceived pain",54,spinal condition,spinal condition,psychological
+142,t1_arm_1,"sports","genetics","diet",55,activity,hereditary,diet
+142,t2_arm_1,"athletic engery","muscle strain","congenital defect",56,other,injury,hereditary
+146,t1_arm_1,"prolonged sitting in graduate program","predisposition to hypermobility","poor posture",57,sedentary,hereditary,posture
+146,t2_arm_1,"prolonged sitting in master's program","hypermobility","years of dance and gymnastics",58,sedentary,physiology (non-spinal),activity
+147,t1_arm_1,"Barre Method exercise","Cross country ski fall","Poor physical therapy",59,activity,injury,negligence
+147,t2_arm_1,"Barre Method","Cross country skiing accident","weak muscles",60,activity,injury,physiology (non-spinal)
+148,t1_arm_1,"Posture at the computer","Overexertion while working","Uncomfortable bed",61,posture,job,other
+148,t2_arm_1,"Poor Posture","Heavy Lifting","Years of sitting down for work",62,posture,activity,sedentary
+165,t1_arm_1,"Snowboarding","Mountain Biking","Lifestyle",63,activity,activity,activity
+172,t1_arm_1,"Lack of stretching/exercise","high school pole vault","scoliosis (although I've been told its not a factor, that it can't cause pain)",64,physiology (non-spinal),activity,spinal condition
+172,t2_arm_1,"lack of exercise  / stretching","scoliosis","pole vaulting injury/accident in track",65,physiology (non-spinal),spinal condition,injury
+192,t1_arm_1,"Broken bone","Genetics","Random chance",66,injury,hereditary,other
+192,t2_arm_1,"broken tail bone","genetic factor","random chance",67,injury,hereditary,other
+194,t1_arm_1,"stress","anxiety","tension",68,stress,psychological,psychological
+194,t2_arm_1,"stress","anxiety","actual injury",69,stress,psychological,injury
+195,t1_arm_1,"childhood traumatic injury","overuse injuries","deferred pain from leg tightness/lack of stretching",70,injury,injury,negligence
+195,t2_arm_1,"Neural pathways","Personal History 'Story'","Parental influence",71,brain,psychological,psychological
+219,t1_arm_1,"Car accident","limited physical therapy","too physical after accident",72,injury,negligence,activity
+221,t1_arm_1,"Packing/Moving boxes","Walking distances with heavy bag","Playing with dog",73,injury,activity,activity
+221,t2_arm_1,"Moving things/bending","Standing in place for long periods","Walking with a heavy bag",74,activity,activity,activity
+228,t1_arm_1,"father's genes","luck","past athletics/outdoor activities",75,hereditary,other,activity
+228,t2_arm_1,"genetics","lack of appropriate exercises/sports","non-compliant with maintenance",76,hereditary,negligence,negligence
+241,t1_arm_1,"back injury","aging","your guess",77,injury,age,other
+248,t1_arm_1,"High School Football","Car Accident","Posture",78,activity,injury,posture
+248,t2_arm_1,"High School Football","Car Accident","Snowboarding Crash",79,activity,injury,injury
+262,t1_arm_1,"Slight curve in spine","Stress to muscles from travel and work","Exploring various treatments",80,spinal condition,physiology (non-spinal),other
+262,t2_arm_1,"Internalizing a lot of anxiety and stress","Fear of injury","Tense muscles and little exercise",81,psychological,psychological,physiology (non-spinal)
+295,t1_arm_1,"Scoliosis","Poor posture","Lifting many heavy things with poor form",82,spinal condition,posture,activity
+295,t2_arm_1,"Scoliosis","Poor posture","Unevenly tight muscles",83,spinal condition,posture,physiology (non-spinal)
+312,t1_arm_1,"overuse/ weightlifting","football","excess weight & weak core",84,activity,activity,weight
+312,t2_arm_1,"Initial football injury","Neural Pathways","Out of touch with body & feelings",85,injury,brain,psychological
+319,t1_arm_1,"Structural damage - football","Inactive lifestyle - I sit a lot in front of a computer or in a car","Overweight and out of shape",86,injury,sedentary,weight
+319,t2_arm_1,"Structural damage from football","Stress in life","Not dealing with the stress",87,injury,stress,psychological
+324,t1_arm_1,"Sitting","Weight gain","Aging",88,sedentary,weight,age
+324,t2_arm_1,"Sitting","Overweight","Physical straining",89,sedentary,weight,activity
+330,t1_arm_1,"Rowing","Over-exercise","stress",90,activity,activity,stress
+330,t2_arm_1,"Rowing","Sports","Lack of flexibility",91,activity,activity,physiology (non-spinal)
+339,t1_arm_1,"At this point - I don't know. I know I'm not injured anymore but I still have daily pain","possibly weaked muscles due to having this pain all the time?","My previous injury really did cause this pain for this long - but I find that unlikely.",92,other,physiology (non-spinal),injury
+341,t1_arm_1,"Growing","Sitting","Activity",93,physiology (non-spinal),sedentary,activity
+341,t2_arm_1,"Sitting","Growing too fast","Not enough core strength",94,sedentary,physiology (non-spinal),physiology (non-spinal)
+348,t1_arm_1,"ongoing strain","what i think of as the initiating event - lifting my grandmother","not enough time to care for my body",95,injury,injury,negligence
+348,t2_arm_1,"initial event/injury","schedule/not able to take care of it","lifting etc at work/school",96,injury,negligence,activity
+352,t1_arm_1,"genetics","bad posture","age",97,hereditary,posture,age
+364,t1_arm_1,"poor posture","possible injury","sleeping in a less than ideal positon",98,posture,injury,posture
+364,t2_arm_1,"poor posture","possible injury","pinched nerve",99,posture,injury,spinal condition
+378,t1_arm_1,"Herniated disc","Work","Weight gain",100,spinal condition,job,weight
+378,t2_arm_1,"thought patterns","weight","job",101,psychological,weight,job
+389,t1_arm_1,"increased breast after breast feeding","plantar fascitis","extra weight",102,perinatal,stress,age
+389,t2_arm_1,"natural breast enlargement following breast feeding","plantar facisitis","extra weight",103,physiology (non-spinal),physiology (non-spinal),weight
+416,t1_arm_1,"sports related injury","not getting initial treatment","ongoing stress related to work",104,injury,negligence,stress
+416,t2_arm_1,"injury","stress","not getting treatment following injury",105,injury,stress,negligence
+431,t1_arm_1,"Golf","Anxiety","Basketball",106,activity,psychological,activity
+431,t2_arm_1,"Golf","Stress","Basketball",107,activity,stress,activity
+434,t1_arm_1,"over use","stress","lack of rest",108,activity,stress,activity
+444,t1_arm_1,"Stress","Competitive/Athlete Mindset","Lack of sleep which becomes lack of personal care (exercise, eating well)",109,stress,psychological,other
+447,t1_arm_1,"hard work","physical abuse","car accidents",110,job,injury,injury
+450,t1_arm_1,"Being a student and sitting in badly-designed chairs for 8-14hrs each day","Wearing non-orthopedic shoes and walking lots anyway","My desk chair at home is old and offers no support. Also, in order to sit in it and be upright I have to sit cross-legged, which tilts my hips and makes my back hurt. ",111,job,activity,posture
+460,t1_arm_1,"genetics","work","stress",112,hereditary,job,stress
+460,t2_arm_1,"genetics","work","stress",113,hereditary,job,stress
+464,t1_arm_1,"sea kayaking incident","poor flexibility and self-care","lack of physical activity",114,injury,physiology (non-spinal),sedentary
+471,t1_arm_1,"Lifting heavy weights","Improper weight lifting form","Not having a strong enough core/lower back",115,activity,activity,physiology (non-spinal)
+471,t2_arm_1,"improper weightlifting","wrestling","car acident",116,activity,activity,injury
+477,t1_arm_1,"Genetics","Inactivity","Injuries",117,hereditary,sedentary,injury
+477,t2_arm_1,"Neural Pathways","Neural Pathways","Neural Pathways",118,brain,brain,brain
+501,t1_arm_1,"Sports Related Injury","Over-Use and Lack of Health Maintenance","Environmental: Stress, Elevation, Changing Weather",119,injury,activity,stress
+501,t2_arm_1,"Prior Injury/Incorrect Treatment","Stress and other Environmental Factors","Heredity",120,injury,stress,hereditary
+535,t1_arm_1,"Muscle damage from c-sections","lack of core exercise to rebuild strength","running/jogging and not stretching enough afterwards",121,perinatal,physiology (non-spinal),negligence
+535,t2_arm_1,"feeling tense; physically tensing up my body","general fear","feeling uncertain",122,physiology (non-spinal),psychological,psychological
+544,t1_arm_1,"Scoliosis","Stress","Activity",123,spinal condition,stress,activity
+545,t1_arm_1,"Stress/tension","Posture","Daily Work",124,stress,posture,job
+545,t2_arm_1,"Stress","Muscle tension","Daily movement/activity",125,stress,physiology (non-spinal),activity
+575,t1_arm_1,"age","fall while skiing or snowboarding","stress",126,age,injury,stress
+575,t2_arm_1,"not taking care of myself","stress","lack of knowledge about how to manage my pain",127,negligence,stress,negligence
+579,t1_arm_1,"body type","age","muscle tone",128,physiology (non-spinal),age,physiology (non-spinal)
+579,t2_arm_1,"body type","age","fender bender accident",129,physiology (non-spinal),age,injury
+586,t1_arm_1,"congenital","gymnastics","car accident",130,hereditary,activity,injury
+586,t2_arm_1,"spondylolisthesis","scoliosis","gymnastics and aging",131,spinal condition,spinal condition,activity
+598,t1_arm_1,"scoliosis","poor posture","sitting too much",132,spinal condition,posture,sedentary
+598,t2_arm_1,"Emotions","Stress","Poor posture",133,psychological,stress,posture
+599,t1_arm_1,"Repetitive high to low lifting causing sciatica","Hitting tail bone on a rock","Exercise",134,activity,injury,activity
+599,t2_arm_1,"Injury while hiking","repetitive high to low lifting","weight training",135,injury,injury,activity
+602,t1_arm_1,"Fell down my stairs","Fractured my sacrum","It never healed properly, thus creating ongoing pain.",136,injury,injury,injury
+604,t1_arm_1,"injury","bad aftercare","unsuccessful treatments",137,injury,negligence,other
+604,t2_arm_1,"military","fall","poor aftercare",138,activity,injury,negligence
+605,t1_arm_1,"Doing too much at once","Not taking good care of myself","Just happens/part of life",139,activity,negligence,other
+605,t2_arm_1,"Not paying attention to my feelings/physical state","Unresolved childhood issues","Putting everyone else's needs before my own",140,psychological,psychological,psychological
+607,t1_arm_1,"scoliosis","stress","posture/school",141,spinal condition,stress,posture
+607,t2_arm_1,"scoliosis","stress","school",142,spinal condition,stress,job
+608,t1_arm_1,"overuse","playing three sports in highschool","weight lifting trainer in high school taught us wrong technique for women - we did more weight less reps rather than the latter",143,activity,activity,activity
+608,t2_arm_1,"overuse","Incorrect physical training in high school","active lifestyle despite pain",144,activity,activity,activity
+651,t1_arm_1,"sports","skateboarding","work",145,activity,activity,job
+664,t1_arm_1,"growing too fast","bad posture","stress",146,physiology (non-spinal),posture,stress
+666,t1_arm_1,"weight","exercise","age",147,weight,activity,age
+666,t2_arm_1,"low speed car crash 30 years ago","running 30 miles a week","carrying an extra 10lb !",148,injury,activity,weight
+672,t1_arm_1,"over-active pain response","stressful schedule/lifestyle","genetics",149,brain,stress,hereditary
+672,t2_arm_1,"conditioning","stress/lifestyle","genetics",150,psychological,stress,hereditary
+676,t1_arm_1,"School","Broken L5","Work",151,job,injury,job
+693,t1_arm_1,"yoga stretch","awkward fall","weakening of muscles",152,activity,injury,physiology (non-spinal)
+693,t2_arm_1,"yoga when not prepared","injured playing basketball","sleep on hard surface",153,injury,injury,other
+698,t1_arm_1,"Football","Extreme Sports","Bad matress",154,activity,activity,other
+698,t2_arm_1,"Football","Extreme Sports","extended Stationary positions",155,activity,activity,sedentary
+699,t1_arm_1,"posture and lack of core strengh","sudden movements in sport activities","age",156,posture,injury,age
+699,t2_arm_1,"age and sports","accidents","anxiety",157,age,injury,psychological
+703,t1_arm_1,"sleeping arrangment","stress","fitness",158,activity,stress,other
+703,t2_arm_1,"Bed sucks","bed sucks","slacking on back/core day",159,other,other,physiology (non-spinal)
+704,t1_arm_1,"development from birth","poor posture","sports/gymnastics",160,hereditary,posture,activity
+704,t2_arm_1,"stress","anxiety","poor posture",161,stress,psychological,posture
+711,t1_arm_1,"Weight Lifting","Contact Sport","Running",162,activity,activity,activity
+711,t2_arm_1,"Weight Lifting","Professional Basketball","Long Distance Running",163,activity,activity,activity
+713,t1_arm_1,"Fallinjury","Large brests","Spine deformity",164,injury,physiology (non-spinal),spinal condition
+713,t2_arm_1,"Fall","Birth defect","Occupation (EMT)",165,injury,hereditary,job
+743,t1_arm_1,"old age","injury","weight",166,age,injury,weight
+743,t2_arm_1,"age","weight","heredity",167,age,weight,hereditary
+759,t1_arm_1,"stress","nerve pain","activity",168,stress,other,activity
+759,t2_arm_1,"stress","injury","heredity",169,stress,injury,hereditary
+771,t1_arm_1,"Muscle weakness","Work/Driving","Stress",170,physiology (non-spinal),job,stress
+771,t2_arm_1,"Work","Muscle Weakness","Prior injury",171,job,physiology (non-spinal),injury
+774,t1_arm_1,"injury","snowboarding","posture",172,injury,activity,posture
+774,t2_arm_1,"Anxiety","Stress","Injury",173,psychological,stress,injury
+782,t1_arm_1,"work injury","inactivity","diet",174,injury,sedentary,diet
+782,t2_arm_1,"lifting wrong","not exercising","diet",175,activity,sedentary,diet
+791,t1_arm_1,"Old injury","Poor posture","My normal job activities",176,injury,posture,job
+791,t2_arm_1,"improper lifting","poor posture","work injury",177,activity,posture,injury
+792,t1_arm_1,"falling - Ice Skating as a child","falling  down icy steps as a child","age",178,injury,injury,age
+792,t2_arm_1,"I don't know what caused it","Stress","Anxiety",179,other,stress,psychological
+796,t1_arm_1,"snowboard accident","massage school injuey (pulling on arms/nerve pain in shoulders and arms)","general walking/sitting/backpack lifestyle",180,injury,injury,activity
+796,t2_arm_1,"snowboarding injury","massage school injury","general lifestyle (backpack, sitting)",181,injury,injury,activity
+814,t1_arm_1,"excess body weight","lack of excercise","work station",182,weight,sedentary,job
+814,t2_arm_1,"Anxiety","Stress","Fear",183,psychological,stress,psychological
+818,t1_arm_1,"History of poor posture","Manual Labor","Genetics",184,posture,activity,hereditary
+818,t2_arm_1,"Stress","Lack of Stretching","Bad Posture",185,stress,physiology (non-spinal),posture
+832,t1_arm_1,"Development","over-use","genetics",186,hereditary,activity,hereditary
+837,t1_arm_1,"infection","repeatative stress","inflammation",187,physiology (non-spinal),activity,physiology (non-spinal)
+837,t2_arm_1,"Potential injury (muscular)","lumbar spine weakness","fear",188,injury,spinal condition,psychological
+843,t1_arm_1,"sitting at a desk for long periods of time","bad (not enough support) shoes","not stretching after lifting weights",189,sedentary,other,physiology (non-spinal)
+843,t2_arm_1,"Sitting for long periods of time","Lack of streching","Bad posture",190,sedentary,physiology (non-spinal),posture
+882,t1_arm_1,"lack of attention to detail","awareness of long term effects","research",191,other,other,other
+893,t1_arm_1,"Injury","Stress","Exercise",192,injury,stress,activity
+893,t2_arm_1,"An initial injury a long time ago that healed","Brain pathways that developed an stayed even after healing","Negative emotions that used the pain pathways  that developed",193,injury,brain,psychological
+902,t1_arm_1,"Genes","poor lifting techniques","lack of education on lifting",194,hereditary,activity,activity
+904,t1_arm_1,"injury","overweight","lack of physical activity",195,injury,weight,sedentary
+904,t2_arm_1,"Injury","Overuse","Neural pathways",196,injury,activity,brain
+909,t1_arm_1,"sports injury- fall from 6 ft. snowboarding, broke 7 ribs",", undiagnosed injury and broken for 3 years, body compensating, overactive nerves","body frame small for large breasts",197,injury,injury,physiology (non-spinal)
+909,t2_arm_1,"traumatic injury from snowboarding accident, broke 7 ribs from fall over 5 feet","body shape, petite with large breasts","overactive nerves",198,injury,physiology (non-spinal),brain
+918,t1_arm_1,"heredity","sitting","sports injuries",199,hereditary,sedentary,injury
+918,t2_arm_1,"curvature of my spine","arthritis","over doing exercise",200,spinal condition,spinal condition,activity
+919,t1_arm_1,"injury","injury","continual activity",201,injury,injury,activity
+937,t1_arm_1,"Being very active in life and not always taking care of myself","Genetic predisposition","repeated injury/stress to particular body part/location; similar to 1st most important",202,activity,hereditary,injury
+937,t2_arm_1,"Lack of awareness about what was going on in my body","Pushing through the pain when it was indicative of something happening","Believing that the pain would be self-resolving",203,negligence,negligence,negligence
+938,t1_arm_1,"medical","environmental","heriditary",204,injury,other,hereditary
+938,t2_arm_1,"heriditary","lifestyle","poor posture",205,hereditary,activity,posture
+950,t1_arm_1,"misaligned disc","bad posture","sitting for long periods of time",206,spinal condition,posture,sedentary
+950,t2_arm_1,"posture","sitting and driving all day for job","lack of upper body strength",207,posture,sedentary,physiology (non-spinal)
+962,t1_arm_1,"Back/Neck injuries, Auto","Chiropractor","Job related",208,injury,injury,job
+962,t2_arm_1,"Injurys","Chiropractor","Job/work",209,injury,injury,job
+976,t1_arm_1,"bully","stress","fear",210,psychological,stress,psychological
+976,t2_arm_1,"stuborness","anger","lack of police oversight",211,psychological,psychological,other
+985,t1_arm_1,"childhood trauma","stress","physical imbalance",212,psychological,stress,physiology (non-spinal)
+985,t2_arm_1,"dont really know","mostly clueless","stress? trauma?",213,other,other,stress
+986,t1_arm_1,"previous activity","current activity","anatomical structure",214,activity,activity,physiology (non-spinal)
+986,t2_arm_1,"previous injury","previous use/activity","skeletal structure",215,injury,activity,spinal condition
+991,t1_arm_1,"Muscle Tension","Stress","Anxiety",216,physiology (non-spinal),stress,psychological
+992,t1_arm_1,"pregnancy","3 car accidents in 2005 in 9 month period","heavy lifting & life stress",217,perinatal,injury,activity
+992,t2_arm_1,"stress","pregnancy, childbirth, child rearing","3 car accidents in 2005",218,stress,perinatal,injury
+1004,t1_arm_1,"recklessness","carelessness","ignorance",219,negligence,negligence,negligence
+1015,t1_arm_1,"injury","not doing exercises","unfit",220,injury,negligence,physiology (non-spinal)
+1015,t2_arm_1,"injury","lack of proper exercise","sitting most of the day",221,injury,sedentary,sedentary
+1027,t1_arm_1,"back surgery","lack of strengthening after surgery","years of dancing",222,injury,physiology (non-spinal),activity
+1027,t2_arm_1,"fear","multiple surgeries","lack of emotional support",223,psychological,injury,psychological
+1029,t1_arm_1,"structure of my spine","muscle strength/weakness","inconsistent treatment/exercise",224,spinal condition,physiology (non-spinal),negligence
+1029,t2_arm_1,"back alignment","lack of treatment early in life","pain with exercise",225,spinal condition,negligence,other
+1035,t1_arm_1,"early back injury","unwillingness to slow down","ageing",226,injury,activity,age
+1035,t2_arm_1,"early injury","no medical follow-up","entrenched, too late to do much",227,injury,negligence,other
+1036,t1_arm_1,"scoliosis","age =  arthritis","injury",228,spinal condition,age,injury
+1036,t2_arm_1,"structural issues","fear","shame",229,injury,psychological,psychological
+1069,t1_arm_1,"Physical disconformity","Overuse of body","Poor posture",230,spinal condition,activity,posture
+1069,t2_arm_1,"Overuse","Age","Injury",231,activity,age,injury
+1078,t1_arm_1,"Auto accident","Auto accident","Auto accident",232,injury,injury,injury
+1078,t2_arm_1,"auto accident","auto accident","auto accident",233,injury,injury,injury
+1083,t1_arm_1,"carelessness","overworking","genetics",234,negligence,job,hereditary
+1083,t2_arm_1,"Overextension","Neglect","Trauma",235,activity,negligence,other
+1084,t1_arm_1,"Degenerative Disc Desease","Age","Narrowing of the nerve channels",236,spinal condition,age,spinal condition
+1084,t2_arm_1,"Past back injury","Poor posture at a computer for long hours","Very hard, extensive alpine skiing",237,injury,posture,activity
+1087,t1_arm_1,"pushing a car out of the snow 40 yrs ago","dancing professionally, being active","weak abdominal wall, carrying twins full term",238,injury,activity,perinatal
+1087,t2_arm_1,"pushing a car out of the snow then going to dance class","weak biomechanics and abdominals, esp. after carrying twins full term","a career in dance",239,injury,perinatal,activity
+1089,t1_arm_1,"Hang gliding accident","Ski and bike accidents","numerous unnecessary back surgeries",240,injury,injury,injury
+1089,t2_arm_1,"sports accident","unnecessary surgeries","lack of physical excercise",241,injury,injury,sedentary
+1099,t1_arm_1,"Doing a significant amount of home landscaping (moving tons of rock) when I was younger","Heredity/genetics","stress",242,injury,hereditary,stress
+1099,t2_arm_1,"Overuse (home landscaping, moving rock) when I was younger","Genetics","poor body mechanics (jumping, etc.)",243,activity,hereditary,physiology (non-spinal)
+1102,t1_arm_1,"Injury in college","too much exercise","barre demonstrations in class overworking one side",244,injury,activity,injury
+1102,t2_arm_1,"Previous injury","Injury caused by teaching Zumba","poor sneakers",245,injury,injury,other
+1103,t1_arm_1,"lifting stuff","activities","diet",246,activity,activity,diet
+1103,t2_arm_1,"lifting stuff","activities","diet",247,activity,activity,diet
+1105,t1_arm_1,"stress","sitting too much","age",248,stress,sedentary,age
+1105,t2_arm_1,"sitting too much","stress","age",249,sedentary,stress,age
+1108,t1_arm_1,"increase in cycling","aging","heredity",250,activity,age,hereditary
+1108,t2_arm_1,"Aging","Changing Exercise Pattern","Hypersensitivity",251,age,activity,brain
+1113,t1_arm_1,"scoliosis","age","lack of strong core",252,spinal condition,age,physiology (non-spinal)
+1113,t2_arm_1,"scoliosis","doing the wrong exercises","doing the wrong activities",253,spinal condition,activity,activity
+1122,t1_arm_1,"herniated disc","pelvic alignment","stress",254,spinal condition,spinal condition,stress
+1122,t2_arm_1,"Stress","Anxiety","Fatigue",255,stress,psychological,psychological
+1126,t1_arm_1,"Posture","Hereditary","Auto accident (forgot that yesterday)",256,posture,hereditary,injury
+1126,t2_arm_1,"Automobile accident","Scoliosis","Hereditary",257,injury,spinal condition,hereditary
+1134,t1_arm_1,"accident","activity","birth defect",258,injury,activity,hereditary
+1136,t1_arm_1,"injury","degenerative processes","reduced ability to participate in physical activities and physical routines, and getting out of the habit of regular physivcal activities",259,injury,spinal condition,sedentary
+1136,t2_arm_1,"injury","misalignment","degenerative processes",260,injury,spinal condition,spinal condition
+1141,t1_arm_1,"Sitting over time","Stress","sports",261,sedentary,stress,activity
+1141,t2_arm_1,"culture of pain, and many people 'showing' pain around me","perception of potential structural damage","stress as an amplifier",262,psychological,psychological,stress
+1154,t1_arm_1,"Height?","Bad posture","Physical activity",263,physiology (non-spinal),posture,activity
+1154,t2_arm_1,"Height","Posture","Athletics",264,physiology (non-spinal),posture,activity
+1159,t1_arm_1,"Genetic predisposition","Moving in a way that exacerbated the issue","Stress and worry that I had when it first began 5 years ago.",265,hereditary,activity,stress
+1159,t2_arm_1,"Injury","Genetics","Continued use of body part",266,injury,hereditary,activity
+1160,t1_arm_1,"genetics","past experiances","food and environment and exorcise",267,hereditary,other,diet
+1160,t2_arm_1,"mood","outlook on life","anxious",268,psychological,psychological,psychological
+1169,t1_arm_1,"Past sports","Age","Recent activities",269,activity,age,activity
+1169,t2_arm_1,"Sports injury","Body growth","Age",270,injury,physiology (non-spinal),age
+1181,t1_arm_1,"hit by car","exercise","Lifting",271,injury,activity,activity
+1181,t2_arm_1,"Being hit by a car","aggravating it during exercise","bad posture and poor core strength",272,injury,activity,posture
+1211,t1_arm_1,"Happenstance (A particular injury at a particular time)","Psychology","Being extremely active",273,injury,psychological,activity
+1211,t2_arm_1,"Being extremely active","Old injuries","Psychological factors",274,activity,injury,psychological
+1214,t1_arm_1,"physical movements","pelvic rotation","???",275,activity,physiology (non-spinal),other
+1214,t2_arm_1,"misalignment of SI joints","some physical movements amplify the pain","??",276,spinal condition,other,other
+1231,t1_arm_1,"Childhood scholiosis","Epidural","Not lifting correctly and not asking for help",277,spinal condition,injury,activity
+1231,t2_arm_1,"Childhood Scoliosis","Epidural","not asking for help lifting/lifting in correctly",278,spinal condition,injury,activity
+1234,t1_arm_1,"crappy anatomy","stress","too busy to take care of my body properly",279,physiology (non-spinal),stress,negligence
+1234,t2_arm_1,"Guilt","Stress","Physical issues",280,psychological,stress,physiology (non-spinal)
+1239,t1_arm_1,"Injuries in youth sports Football/Basketball","Bad posture","hard labor jobs in the past",281,injury,posture,activity
+1239,t2_arm_1,"sports injuries","lack of core strength","bad posture in my youth",282,injury,physiology (non-spinal),posture
+1244,t1_arm_1,"back injury","osteroarthritis","arthritis in other locations",283,injury,spinal condition,physiology (non-spinal)
+1244,t2_arm_1,"genetic 10","accident  7","bad luck 1",284,hereditary,injury,other
+1251,t1_arm_1,"Ski wreck in 1981","raft accident in 2012","logging accident in 2008",285,injury,injury,injury
+1256,t1_arm_1,"Jet ski accident","High school/college sports","lack of exercise",286,injury,activity,sedentary
+1256,t2_arm_1,"Jet ski accident","high impact sports","active lifestyle",287,injury,activity,activity
+1268,t1_arm_1,"sports: Tumbling, distance Running","Work : carrying heavy items","arthritis and genetics",288,activity,job,hereditary
+1268,t2_arm_1,"over estimated my own strength","denial of over exertion","weight",289,injury,activity,weight
+1277,t1_arm_1,"Personality","Injury/inherited predisposition","Stress related to family",290,psychological,injury,stress
+1277,t2_arm_1,"Personality","Family stress","Structural Damage",291,psychological,stress,injury
+1294,t1_arm_1,"childbirth","ongoing activity","residual effects",292,perinatal,activity,other
+1294,t2_arm_1,"pregnancy / postpartum","zipline accident","ongoing debilitation from 1st and 2nd factors",293,perinatal,injury,other
+1302,t1_arm_1,"Fractures of  T8 and T10 or T11 and receiving no treatment for them, because they were not diagnosed for 5 years","Weak core muscles","Poor posture from the vertebrae fractures",294,spinal condition,physiology (non-spinal),posture
+1302,t2_arm_1,"Undiagnosed fracture","Poor posture from fracture pain","Weak core and abdominal muscles",295,injury,posture,physiology (non-spinal)
+1319,t1_arm_1,"Over working my back muscles to cause spinal disc to bulge","Ultimate Frisbee","Heavy lifting",296,spinal condition,activity,activity
+1319,t2_arm_1,"I over worked my back lifting kegs at the GABF","After handling kegs, I went and played ultimate Frisbee where the injury occurred.","I have weak muscles in my back?",297,injury,injury,physiology (non-spinal)

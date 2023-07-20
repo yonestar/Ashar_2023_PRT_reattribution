@@ -1,0 +1,124 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+  html_notebook: default
+  pdf_document: default
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+# INSTALLATIONS
+
+## ## packages installed in install_github(, dependencies=TRUE)
+## install.packages(c("stm","ggplot2","gridExtra","Matrix","reshape2","ForeCA","devtools","magrittr","RSpectra"))
+## ## word embeddings
+## install.packages(c("dplyr","readr","tidyr","CCA"))
+## ## optional (not installed)
+## install.packages(c("knitr"))
+
+# install_github("wilryh/parrot", dependencies=TRUE)
+
+# install locally (with edits) -- failing
+# detach("package:parrot", unload=TRUE)
+# install.packages("/Users/yoni/Repositories/parrot", repos=NULL, type="source", dependencies=TRUE)
+
+```
+
+
+```{r}
+# load in my data
+
+library(readr)
+attr <- read_tsv("/Users/yoni/Repositories/OLP4CBP/scripts/analyses/semantic_analyses/manual_codings/IPQlastitem_final FINAL CODED for parrot T2 only.csv", col_types = 'c')
+
+# rename column
+names(attr)[1] <- 'attributions'
+
+# replace , \ / with spaces (perhaps not necessary but not harmful)
+attr$attributions <- gsub("\\,", " ", attr$attributions)
+attr$attributions <- gsub("\\\\", " ", attr$attributions)
+attr$attributions <- gsub("/", " ", attr$attributions)
+
+```
+
+
+```{r}
+
+library(devtools)
+library(stm)
+library(parrot)
+
+# If i stem, then many words are no longer found in the embedding. might be a problem?
+# If I don't stem, more words are dropped as ocurring only once (eg factor and factors don't count in same category)
+processed <- textProcessor(
+    attr$attributions, attr,
+    removestopwords=T, lowercase=T, stem=F, removepunctuation = TRUE
+)
+
+# removes words that occur only once in the corpus
+out <- prepDocuments(
+    processed$documents, processed$vocab, processed$meta
+    )
+
+# at this point, each subject (at T2) is a list of "hits" re: which terms are present across their 3 attributions, and the number of times each term is present for them
+
+tdm <- doc_to_tdm(out)
+
+
+# doesn't find 2 words. not sure which. prob doesn't matter. esp since embeddings are not even used below!
+embeddings <- read_word_embeddings(
+    in_vocab=out$vocab,
+    #ovefile = "/Users/yoni/Repositories/parrot/data/glove.6B/glove.6B.50d.txt"
+    ovefile = "/Users/yoni/Repositories/parrot/data/O2M_overlap.txt"
+    
+    # embedding makes no difference in test data, as W Hobbs expects
+    
+    #"O2M_overlap.txt" # must add location on your computer "path/to/O2M_overlap.txt"
+    ## ovefile2 = "path/to/O2M_oov.txt", # very rare words and misspellings
+    ## available here http://www.cis.uni-muenchen.de/~wenpeng/renamed-meta-emb.tar.gz
+    ## must unpack and replace "path/to/" with location on your computer
+    )
+
+# generates a score for each word.
+# work better if lemmatized? if using embeddings?
+scores <- scale_text(
+    meta=out$meta,
+    tdm=tdm,
+    pivot = 4,
+    verbose = T,
+    constrain_outliers = T,
+#    n_dimension_compression = 5 # does not look as good
+##    embeddings=embeddings[["meta"]], ## embeddings have little effect
+##    on output -- if used, consider setting pivot lower (e.g. pivot = 1/2)
+    )
+
+document_scores <- score_documents(
+    scores=scores, n_dimensions=3
+    )
+
+get_keywords(scores, n_dimensions=3, n_words=8)
+```
+
+
+```{r}
+# confirming that score on first dimension (X0) is uncorrelated with doc length
+with(document_scores, cor(sqrt(n_words), X0, use="complete"))
+
+write.csv(document_scores, file="/Users/yoni/Repositories/OLP4CBP/scripts/analyses/semantic_analyses/parrot/document_scores_from_parrot.csv")
+
+plot_keywords(
+    scores, x_dimension=1, y_dimension=2, q_cutoff=0.8, plot_density=F, unstretch=F, color=T
+    )
+```
+
+```{r}
+# Look at scores on 1st dimension only. 1st dimension is in the 2nd position... ?
+myscores = data.frame(scores$vocab, scores$word_scores[,2], scores$word_counts)
+write.csv(myscores, file="/Users/yoni/Repositories/OLP4CBP/scripts/analyses/semantic_analyses/parrot/word_scores_1st_dim_from_parrot.csv", row.names = FALSE)
+
+```

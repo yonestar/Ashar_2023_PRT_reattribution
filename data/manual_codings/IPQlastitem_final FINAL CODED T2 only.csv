@@ -1,0 +1,135 @@
+12,t2_arm_1,Poor sleep habits/bed,Lots of time driving,Pre-existing back condition,2,STR,STR,STR
+14,t2_arm_1,scoliosis,degenerated discs,age,5,STR,STR,STR
+15,t2_arm_1,Car accident,Football injury,poor lifting,7,STR,STR,STR
+18,t2_arm_1,bad posture,incorrect mattress type,advancing age,9,STR,STR,STR
+23,t2_arm_1,work (as a massage therapist),stress,poor posture,11,STR,MB,STR
+24,t2_arm_1,my thoughts,People around me,Doctors,13,MB,MB,MB
+29,t2_arm_1,Traumatic injury,Stress/Anxiety,Repressed emotions,15,STR,MB,MB
+32,t2_arm_1,pain signals after an injury,not taking care of my core/back,Family history,17,MB,STR,STR
+38,t2_arm_1,stress,genetics,sitting at a computer all day,19,MB,STR,STR
+51,t2_arm_1,Lack of exercise,sedentary lifestyle,unhealthy diet,21,STR,STR,STR
+61,t2_arm_1,previous injury,sitting at work all the time,recent injury playing volleyball,23,STR,STR,STR
+69,t2_arm_1,self adjustments,Cycling,past injuries,26,STR,STR,STR
+72,t2_arm_1,arthritis,injury,genetics,28,STR,STR,STR
+79,t2_arm_1,Celiac/vitamin deficiency,stress,age,30,STR,MB,STR
+87,t2_arm_1,Age,Lifting a baby/toddler,Heredity,33,STR,STR,STR
+96,t2_arm_1,Lift injury,car accident,gymnastics,35,STR,STR,STR
+102,t2_arm_1,Fibromyalgia,Anxiety,Depression,37,STR,MB,MB
+103,t2_arm_1,"being run over by truck,  as a pedestrian",permanent physical damage,aging,39,STR,STR,STR
+104,t2_arm_1,anxiety disorder,posture,stressful job,41,MB,STR,MB
+108,t2_arm_1,pregnancy,carrying around the babies,weak core/glutes,44,STR,STR,STR
+112,t2_arm_1,past conditioning,fear,anxiety,46,MB,MB,MB
+113,t2_arm_1,nerve compression in hip,feeling afraid when I experience pain and feeling there is nothing I can do,Not listening and attending to my needs and doing too much for other people instead of attending to what I need,48,STR,MB,MB
+115,t2_arm_1,Morning routine,Expectation of pain,Nerves,50,MB,MB,MB
+117,t2_arm_1,anxiety,muscle tension,mom,52,MB,STR,MB
+125,t2_arm_1,arthritis,fascial entrapment,psychological response to perceived pain,54,STR,STR,MB
+142,t2_arm_1,athletic energy,muscle strain,congenital defect,56,STR,STR,STR
+146,t2_arm_1,prolonged sitting in master's program,hypermobility,years of dance and gymnastics,58,STR,STR,STR
+147,t2_arm_1,Barre Method,Cross country skiing accident,weak muscles,60,STR,STR,STR
+148,t2_arm_1,Poor Posture,Heavy Lifting,Years of sitting down for work,62,STR,STR,STR
+172,t2_arm_1,lack of exercise  / stretching,scoliosis,pole vaulting injury/accident in track,65,STR,STR,STR
+192,t2_arm_1,broken tail bone,genetic factor,random chance,67,STR,STR,STR
+194,t2_arm_1,stress,anxiety,actual injury,69,MB,MB,STR
+195,t2_arm_1,Neural pathways,Personal History 'Story',Parental influence,71,MB,MB,MB
+221,t2_arm_1,Moving things/bending,Standing in place for long periods,Walking with a heavy bag,74,STR,STR,STR
+228,t2_arm_1,genetics,lack of appropriate exercises/sports,non-compliant with maintenance,76,STR,STR,STR
+248,t2_arm_1,High School Football,Car Accident,Snowboarding Crash,79,STR,STR,STR
+262,t2_arm_1,Internalizing a lot of anxiety and stress,Fear of injury,Tense muscles and little exercise,81,MB,MB,STR
+295,t2_arm_1,Scoliosis,Poor posture,Unevenly tight muscles,83,STR,STR,STR
+312,t2_arm_1,Initial football injury,Neural Pathways,Out of touch with body & feelings,85,STR,MB,MB
+319,t2_arm_1,Structural damage from football,Stress in life,Not dealing with the stress,87,STR,MB,MB
+324,t2_arm_1,Sitting,Overweight,Physical straining,89,STR,STR,STR
+330,t2_arm_1,Rowing,Sports,Lack of flexibility,91,STR,STR,STR
+341,t2_arm_1,Sitting,Growing too fast,Not enough core strength,94,STR,STR,STR
+348,t2_arm_1,initial event/injury,schedule/not able to take care of it,lifting etc. at work/school,96,STR,STR,STR
+364,t2_arm_1,poor posture,possible injury,pinched nerve,99,STR,STR,STR
+378,t2_arm_1,thought patterns,weight,job,101,MB,STR,STR
+389,t2_arm_1,natural breast enlargement following breast feeding,plantar fasciitis,extra weight,103,STR,STR,STR
+416,t2_arm_1,injury,stress,not getting treatment following injury,105,STR,MB,STR
+431,t2_arm_1,Golf,Stress,Basketball,107,STR,MB,STR
+460,t2_arm_1,genetics,work,stress,113,STR,STR,MB
+471,t2_arm_1,improper weightlifting,wrestling,car accident,116,STR,STR,STR
+477,t2_arm_1,Neural Pathways,Neural Pathways,Neural Pathways,118,MB,MB,MB
+501,t2_arm_1,Prior Injury/Incorrect Treatment,Stress and other Environmental Factors,Heredity,120,STR,MB,STR
+535,t2_arm_1,feeling tense; physically tensing up my body,general fear,feeling uncertain,122,MB,MB,MB
+545,t2_arm_1,Stress,Muscle tension,Daily movement/activity,125,MB,STR,STR
+575,t2_arm_1,not taking care of myself,stress,lack of knowledge about how to manage my pain,127,MB,MB,MB
+579,t2_arm_1,body type,age,fender bender accident,129,STR,STR,STR
+586,t2_arm_1,spondylolisthesis,scoliosis,gymnastics and aging,131,STR,STR,STR
+598,t2_arm_1,Emotions,Stress,Poor posture,133,MB,MB,STR
+599,t2_arm_1,Injury while hiking,repetitive high to low lifting,weight training,135,STR,STR,STR
+604,t2_arm_1,military,fall,poor aftercare,138,STR,STR,STR
+605,t2_arm_1,Not paying attention to my feelings/physical state,Unresolved childhood issues,Putting everyone else's needs before my own,140,MB,MB,MB
+607,t2_arm_1,scoliosis,stress,school,142,STR,MB,STR
+608,t2_arm_1,overuse,Incorrect physical training in high school,active lifestyle despite pain,144,STR,STR,STR
+666,t2_arm_1,low speed car crash 30 years ago,running 30 miles a week,carrying an extra 10lb !,148,STR,STR,STR
+672,t2_arm_1,conditioning,stress/lifestyle,genetics,150,MB,MB,STR
+693,t2_arm_1,yoga when not prepared,injured playing basketball,sleep on hard surface,153,STR,STR,STR
+698,t2_arm_1,Football,Extreme Sports,extended Stationary positions,155,STR,STR,STR
+699,t2_arm_1,age and sports,accidents,anxiety,157,STR,STR,MB
+703,t2_arm_1,Bed sucks,bed sucks,slacking on back/core day,159,STR,STR,STR
+704,t2_arm_1,stress,anxiety,poor posture,161,MB,MB,STR
+711,t2_arm_1,Weight Lifting,Professional Basketball,Long Distance Running,163,STR,STR,STR
+713,t2_arm_1,Fall,Birth defect,Occupation (EMT),165,STR,STR,STR
+743,t2_arm_1,age,weight,heredity,167,STR,STR,STR
+759,t2_arm_1,stress,injury,heredity,169,MB,STR,STR
+771,t2_arm_1,Work,Muscle Weakness,Prior injury,171,STR,STR,STR
+774,t2_arm_1,Anxiety,Stress,Injury,173,MB,MB,STR
+782,t2_arm_1,lifting wrong,not exercising,diet,175,STR,STR,STR
+791,t2_arm_1,improper lifting,poor posture,work injury,177,STR,STR,STR
+792,t2_arm_1,I don't know what caused it,Stress,Anxiety,179,MB,MB,MB
+796,t2_arm_1,snowboarding injury,massage school injury,"general lifestyle (backpack, sitting)",181,STR,STR,STR
+814,t2_arm_1,Anxiety,Stress,Fear,183,MB,MB,MB
+818,t2_arm_1,Stress,Lack of Stretching,Bad Posture,185,MB,STR,STR
+837,t2_arm_1,Potential injury (muscular),lumbar spine weakness,fear,188,STR,STR,MB
+843,t2_arm_1,Sitting for long periods of time,Lack of stretching,Bad posture,190,STR,STR,STR
+893,t2_arm_1,An initial injury a long time ago that healed,Brain pathways that developed an stayed even after healing,Negative emotions that used the pain pathways  that developed,193,MB,MB,MB
+904,t2_arm_1,Injury,Overuse,Neural pathways,196,STR,STR,MB
+909,t2_arm_1,"traumatic injury from snowboarding accident, broke 7 ribs from fall over 5 feet","body shape, petite with large breasts",overactive nerves,198,STR,STR,STR
+918,t2_arm_1,curvature of my spine,arthritis,over doing exercise,200,STR,STR,STR
+937,t2_arm_1,Lack of awareness about what was going on in my body,Pushing through the pain when it was indicative of something happening,Believing that the pain would be self-resolving,203,MB,STR,STR
+938,t2_arm_1,hereditary,lifestyle,poor posture,205,STR,MB,STR
+950,t2_arm_1,posture,sitting and driving all day for job,lack of upper body strength,207,STR,STR,STR
+962,t2_arm_1,Injuries,Chiropractor,Job/work,209,STR,STR,STR
+976,t2_arm_1,stubbornness,anger,lack of police oversight,211,MB,MB,MB
+985,t2_arm_1,don't really know,mostly clueless,stress? trauma?,213,MB,MB,MB
+986,t2_arm_1,previous injury,previous use/activity,skeletal structure,215,STR,STR,STR
+992,t2_arm_1,stress,"pregnancy, childbirth, child rearing",3 car accidents in 2005,218,MB,STR,STR
+1015,t2_arm_1,injury,lack of proper exercise,sitting most of the day,221,STR,STR,STR
+1027,t2_arm_1,fear,multiple surgeries,lack of emotional support,223,MB,STR,MB
+1029,t2_arm_1,back alignment,lack of treatment early in life,pain with exercise,225,STR,STR,STR
+1035,t2_arm_1,early injury,no medical follow-up,"entrenched, too late to do much",227,STR,STR,STR
+1036,t2_arm_1,structural issues,fear,shame,229,STR,MB,MB
+1069,t2_arm_1,Overuse,Age,Injury,231,STR,STR,STR
+1078,t2_arm_1,auto accident,auto accident,auto accident,233,STR,STR,STR
+1083,t2_arm_1,Overextension,Neglect,Trauma,235,STR,MB,MB
+1084,t2_arm_1,Past back injury,Poor posture at a computer for long hours,"Very hard, extensive alpine skiing",237,STR,STR,STR
+1087,t2_arm_1,pushing a car out of the snow then going to dance class,"weak biomechanics and abdominals, esp. after carrying twins full term",a career in dance,239,STR,STR,STR
+1089,t2_arm_1,sports accident,unnecessary surgeries,lack of physical exercise,241,STR,STR,STR
+1099,t2_arm_1,"Overuse (home landscaping, moving rock) when I was younger",Genetics,"poor body mechanics (jumping, etc.)",243,STR,STR,STR
+1102,t2_arm_1,Previous injury,Injury caused by teaching Zumba,poor sneakers,245,STR,STR,STR
+1103,t2_arm_1,lifting stuff,activities,diet,247,STR,STR,STR
+1105,t2_arm_1,sitting too much,stress,age,249,STR,MB,STR
+1108,t2_arm_1,Aging,Changing Exercise Pattern,Hypersensitivity,251,STR,STR,MB
+1113,t2_arm_1,scoliosis,doing the wrong exercises,doing the wrong activities,253,STR,STR,STR
+1122,t2_arm_1,Stress,Anxiety,Fatigue,255,MB,MB,MB
+1126,t2_arm_1,Automobile accident,Scoliosis,Hereditary,257,STR,STR,STR
+1136,t2_arm_1,injury,misalignment,degenerative processes,260,STR,STR,STR
+1141,t2_arm_1,"culture of pain, and many people 'showing' pain around me",perception of potential structural damage,stress as an amplifier,262,MB,MB,MB
+1154,t2_arm_1,Height,Posture,Athletics,264,STR,STR,STR
+1159,t2_arm_1,Injury,Genetics,Continued use of body part,266,STR,STR,STR
+1160,t2_arm_1,mood,outlook on life,anxious,268,MB,MB,MB
+1169,t2_arm_1,Sports injury,Body growth,Age,270,STR,STR,STR
+1181,t2_arm_1,Being hit by a car,aggravating it during exercise,bad posture and poor core strength,272,STR,STR,STR
+1211,t2_arm_1,Being extremely active,Old injuries,Psychological factors,274,STR,STR,MB
+1214,t2_arm_1,misalignment of SI joints,some physical movements amplify the pain,??,276,STR,STR,STR
+1231,t2_arm_1,Childhood Scoliosis,Epidural,not asking for help lifting/lifting in correctly,278,STR,STR,STR
+1234,t2_arm_1,Guilt,Stress,Physical issues,280,MB,MB,STR
+1239,t2_arm_1,sports injuries,lack of core strength,bad posture in my youth,282,STR,STR,STR
+1244,t2_arm_1,genetic 10,accident  7,bad luck 1,284,STR,STR,STR
+1256,t2_arm_1,Jet ski accident,high impact sports,active lifestyle,287,STR,STR,STR
+1268,t2_arm_1,over estimated my own strength,denial of over exertion,weight,289,STR,STR,STR
+1277,t2_arm_1,Personality,Family stress,Structural Damage,291,MB,MB,STR
+1294,t2_arm_1,pregnancy / postpartum,zipline accident,ongoing debilitation from 1st and 2nd factors,293,STR,STR,STR
+1302,t2_arm_1,Undiagnosed fracture,Poor posture from fracture pain,Weak core and abdominal muscles,295,STR,STR,STR
+1319,t2_arm_1,I over worked my back lifting kegs at the GABF,"After handling kegs, I went and played ultimate Frisbee where the injury occurred.",I have weak muscles in my back?,297,STR,STR,STR

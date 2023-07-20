@@ -1,0 +1,17 @@
+NO STEMMING
+
+Removing 296 of 423 terms (296 of 853 tokens) due to frequency
+Your corpus now has 135 documents, 127 terms and 557 tokens.
+
+Pulling overlapping words from meta word embeddings..
+Expected 200 pieces. Missing pieces filled with `NA` in 125 rows [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, ...].
+Found 125 words.
+
+STEMMING
+
+Removing 255 of 382 terms (255 of 848 tokens) due to frequency
+Your corpus now has 135 documents, 127 terms and 593 tokens.
+
+Pulling overlapping words from meta word embeddings..
+Expected 200 pieces. Missing pieces filled with `NA` in 80 rows [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, ...].
+Found 80 words.

@@ -1,0 +1,298 @@
+rowkey,st_most_important,nd_most_important,rd_most_important,cat1,cat2,cat3
+141,scoliosis,stress,posture/school,spinal condition,stress,posture
+192,Injury,Stress,Exercise,injury,stress,activity
+91,Rowing,Sports,Lack of flexibility,activity,activity,physiology (non-spinal)
+149,over-active pain response,stressful schedule/lifestyle,genetics,brain,stress,hereditary
+209,Injurys,Chiropractor,Job/work,injury,injury,job
+260,injury,misalignment,degenerative processes,injury,spinal condition,spinal condition
+127,not taking care of myself,stress,lack of knowledge about how to manage my pain,negligence,stress,negligence
+24,Stress from a job,Car accident that impacted spine,Having mostly desk jobs,stress,injury,sedentary
+44,pregnancy,carrying around the babies,weak core/glutes,perinatal,perinatal,physiology (non-spinal)
+178,falling - Ice Skating as a child,falling  down icy steps as a child,age,injury,injury,age
+107,Golf,Stress,Basketball,activity,stress,activity
+207,posture,sitting and driving all day for job,lack of upper body strength,posture,sedentary,physiology (non-spinal)
+60,Barre Method,Cross country skiing accident,weak muscles,activity,injury,physiology (non-spinal)
+145,sports,skateboarding,work,activity,activity,job
+58,prolonged sitting in master's program,hypermobility,years of dance and gymnastics,sedentary,physiology (non-spinal),activity
+270,Sports injury,Body growth,Age,injury,physiology (non-spinal),age
+49,Age,Falls,Sedentary work/lifestyle,age,injury,sedentary
+25,self adustiments (cracking),Biking,poor posture,injury,activity,posture
+174,work injury,inactivity,diet,injury,sedentary,diet
+163,Weight Lifting,Professional Basketball,Long Distance Running,activity,activity,activity
+121,Muscle damage from c-sections,lack of core exercise to rebuild strength,running/jogging and not stretching enough afterwards,perinatal,physiology (non-spinal),negligence
+8,bad sleep posture,overexertion,bad posture in genral,posture,activity,posture
+264,Height,Posture,Athletics,physiology (non-spinal),posture,activity
+31,injury,posture,?,injury,posture,other
+279,crappy anatomy,stress,too busy to take care of my body properly,physiology (non-spinal),stress,negligence
+20,Lack of proper exercise,sedentary lifestyle,unhealthy diet,negligence,sedentary,diet
+56,athletic engery,muscle strain,congenital defect,other,injury,hereditary
+76,genetics,lack of appropriate exercises/sports,non-compliant with maintenance,hereditary,negligence,negligence
+17,pain signals after an injury,not taking care of my core/back,Family history,brain,negligence,hereditary
+71,Neural pathways,Personal History 'Story',Parental influence,brain,psychological,psychological
+234,carelessness,overworking,genetics,negligence,job,hereditary
+153,yoga when not prepared,injured playing basketball,sleep on hard surface,injury,injury,other
+167,age,weight,heredity,age,weight,hereditary
+144,overuse,Incorrect physical training in high school,active lifestyle despite pain,activity,activity,activity
+242,Doing a significant amount of home landscaping (moving tons of rock) when I was younger,Heredity/genetics,stress,injury,hereditary,stress
+21,Lack of exercise,sedentary lifestyle,unhealthy diet,sedentary,sedentary,diet
+123,Scoliosis,Stress,Activity,spinal condition,stress,activity
+79,High School Football,Car Accident,Snowboarding Crash,activity,injury,injury
+26,self adjustments,Cycling,past injuries,activity,activity,injury
+284,genetic 10,accident  7,bad luck 1,hereditary,injury,other
+188,Potential injury (muscular),lumbar spine weakness,fear,injury,spinal condition,psychological
+186,Development,over-use,genetics,hereditary,activity,hereditary
+281,Injuries in youth sports Football/Basketball,Bad posture,hard labor jobs in the past,injury,posture,activity
+166,old age,injury,weight,age,injury,weight
+273,Happenstance (A particular injury at a particular time),Psychology,Being extremely active,injury,psychological,activity
+111,Being a student and sitting in badly-designed chairs for 8-14hrs each day,Wearing non-orthopedic shoes and walking lots anyway,"My desk chair at home is old and offers no support. Also, in order to sit in it and be upright I have to sit cross-legged, which tilts my hips and makes my back hurt. ",job,activity,posture
+182,excess body weight,lack of excercise,work station,weight,sedentary,job
+199,heredity,sitting,sports injuries,hereditary,sedentary,injury
+105,injury,stress,not getting treatment following injury,injury,stress,negligence
+172,injury,snowboarding,posture,injury,activity,posture
+140,Not paying attention to my feelings/physical state,Unresolved childhood issues,Putting everyone else's needs before my own,psychological,psychological,psychological
+248,stress,sitting too much,age,stress,sedentary,age
+251,Aging,Changing Exercise Pattern,Hypersensitivity,age,activity,brain
+133,Emotions,Stress,Poor posture,psychological,stress,posture
+267,genetics,past experiances,food and environment and exorcise,hereditary,other,diet
+47,degenerative disc disease  multi-level,Nerve entrapment and damage causing chronic neuropathic  Pain,Chronic inflammation,spinal condition,spinal condition,physiology (non-spinal)
+277,Childhood scholiosis,Epidural,Not lifting correctly and not asking for help,spinal condition,injury,activity
+42,Being at a desk job all my life,Bad posture,Being overweight,activity,posture,weight
+232,Auto accident,Auto accident,Auto accident,injury,injury,injury
+206,misaligned disc,bad posture,sitting for long periods of time,spinal condition,posture,sedentary
+134,Repetitive high to low lifting causing sciatica,Hitting tail bone on a rock,Exercise,activity,injury,activity
+293,pregnancy / postpartum,zipline accident,ongoing debilitation from 1st and 2nd factors,perinatal,injury,other
+5,scoliosis,degenerated discs,age,spinal condition,spinal condition,age
+266,Injury,Genetics,Continued use of body part,injury,hereditary,activity
+291,Personality,Family stress,Structural Damage,psychological,stress,injury
+65,lack of exercise  / stretching,scoliosis,pole vaulting injury/accident in track,physiology (non-spinal),spinal condition,injury
+87,Structural damage from football,Stress in life,Not dealing with the stress,injury,stress,psychological
+155,Football,Extreme Sports,extended Stationary positions,activity,activity,sedentary
+96,initial event/injury,schedule/not able to take care of it,lifting etc at work/school,injury,negligence,activity
+173,Anxiety,Stress,Injury,psychological,stress,injury
+212,childhood trauma,stress,physical imbalance,psychological,stress,physiology (non-spinal)
+130,congenital,gymnastics,car accident,hereditary,activity,injury
+114,sea kayaking incident,poor flexibility and self-care,lack of physical activity,injury,physiology (non-spinal),sedentary
+66,Broken bone,Genetics,Random chance,injury,hereditary,other
+75,father's genes,luck,past athletics/outdoor activities,hereditary,other,activity
+34,Back injury,gymnastics,car accident,injury,activity,injury
+103,natural breast enlargement following breast feeding,plantar facisitis,extra weight,physiology (non-spinal),physiology (non-spinal),weight
+191,lack of attention to detail,awareness of long term effects,research,other,other,other
+256,Posture,Hereditary,Auto accident (forgot that yesterday),posture,hereditary,injury
+90,Rowing,Over-exercise,stress,activity,activity,stress
+41,anxiety disorder,posture,stressful job,psychological,posture,stress
+282,sports injuries,lack of core strength,bad posture in my youth,injury,physiology (non-spinal),posture
+129,body type,age,fender bender accident,physiology (non-spinal),age,injury
+33,Age,Lifting a baby/toddler,Heredity,age,activity,hereditary
+95,ongoing strain,what i think of as the initiating event - lifting my grandmother,not enough time to care for my body,injury,injury,negligence
+89,Sitting,Overweight,Physical straining,sedentary,weight,activity
+252,scoliosis,age,lack of strong core,spinal condition,age,physiology (non-spinal)
+158,sleeping arrangment,stress,fitness,activity,stress,other
+94,Sitting,Growing too fast,Not enough core strength,sedentary,physiology (non-spinal),physiology (non-spinal)
+137,injury,bad aftercare,unsuccessful treatments,injury,negligence,other
+83,Scoliosis,Poor posture,Unevenly tight muscles,spinal condition,posture,physiology (non-spinal)
+120,Prior Injury/Incorrect Treatment,Stress and other Environmental Factors,Heredity,injury,stress,hereditary
+13,my thoughts,People around me,Doctors,psychological,psychological,other
+275,physical movements,pelvic rotation,???,activity,physiology (non-spinal),other
+233,auto accident,auto accident,auto accident,injury,injury,injury
+276,misalignment of SI joints,some physical movements amplify the pain,??,spinal condition,other,other
+236,Degenerative Disc Desease,Age,Narrowing of the nerve channels,spinal condition,age,spinal condition
+108,over use,stress,lack of rest,activity,stress,activity
+181,snowboarding injury,massage school injury,"general lifestyle (backpack, sitting)",injury,injury,activity
+245,Previous injury,Injury caused by teaching Zumba,poor sneakers,injury,injury,other
+190,Sitting for long periods of time,Lack of streching,Bad posture,sedentary,physiology (non-spinal),posture
+237,Past back injury,Poor posture at a computer for long hours,"Very hard, extensive alpine skiing",injury,posture,activity
+244,Injury in college,too much exercise,barre demonstrations in class overworking one side,injury,activity,injury
+162,Weight Lifting,Contact Sport,Running,activity,activity,activity
+154,Football,Extreme Sports,Bad matress,activity,activity,other
+124,Stress/tension,Posture,Daily Work,stress,posture,job
+69,stress,anxiety,actual injury,stress,psychological,injury
+187,infection,repeatative stress,inflammation,physiology (non-spinal),activity,physiology (non-spinal)
+265,Genetic predisposition,Moving in a way that exacerbated the issue,Stress and worry that I had when it first began 5 years ago.,hereditary,activity,stress
+37,Fibromyalgia,Anxiety,Depression,other,psychological,psychological
+55,sports,genetics,diet,activity,hereditary,diet
+92,At this point - I don't know. I know I'm not injured anymore but I still have daily pain,possibly weaked muscles due to having this pain all the time?,My previous injury really did cause this pain for this long - but I find that unlikely.,other,physiology (non-spinal),injury
+271,hit by car,exercise,Lifting,injury,activity,activity
+235,Overextension,Neglect,Trauma,activity,negligence,other
+12,injury,poor posture,time,injury,posture,age
+218,stress,"pregnancy, childbirth, child rearing",3 car accidents in 2005,stress,perinatal,injury
+263,Height?,Bad posture,Physical activity,physiology (non-spinal),posture,activity
+213,dont really know,mostly clueless,stress? trauma?,other,other,stress
+227,early injury,no medical follow-up,"entrenched, too late to do much",injury,negligence,other
+269,Past sports,Age,Recent activities,activity,age,activity
+125,Stress,Muscle tension,Daily movement/activity,stress,physiology (non-spinal),activity
+99,poor posture,possible injury,pinched nerve,posture,injury,spinal condition
+6,Car Accident,Football Injury,Improper lifting,injury,injury,activity
+84,overuse/ weightlifting,football,excess weight & weak core,activity,activity,weight
+290,Personality,Injury/inherited predisposition,Stress related to family,psychological,injury,stress
+259,injury,degenerative processes,"reduced ability to participate in physical activities and physical routines, and getting out of the habit of regular physivcal activities",injury,spinal condition,sedentary
+16,muscle imbalance,injury from hockey,family history,physiology (non-spinal),injury,hereditary
+10,work as a massage therapist,inadequate self-care,mattress,job,negligence,other
+231,Overuse,Age,Injury,activity,age,injury
+73,Packing/Moving boxes,Walking distances with heavy bag,Playing with dog,injury,activity,activity
+214,previous activity,current activity,anatomical structure,activity,activity,physiology (non-spinal)
+93,Growing,Sitting,Activity,physiology (non-spinal),sedentary,activity
+43,child-bearing and carrying,weak butt muscles,hereditary back issues,perinatal,physiology (non-spinal),hereditary
+119,Sports Related Injury,Over-Use and Lack of Health Maintenance,"Environmental: Stress, Elevation, Changing Weather",injury,activity,stress
+51,heavy lifting,disc disease,child birth,activity,spinal condition,perinatal
+77,back injury,aging,your guess,injury,age,other
+208,"Back/Neck injuries, Auto",Chiropractor,Job related,injury,injury,job
+225,back alignment,lack of treatment early in life,pain with exercise,spinal condition,negligence,other
+80,Slight curve in spine,Stress to muscles from travel and work,Exploring various treatments,spinal condition,physiology (non-spinal),other
+217,pregnancy,3 car accidents in 2005 in 9 month period,heavy lifting & life stress,perinatal,injury,activity
+57,prolonged sitting in graduate program,predisposition to hypermobility,poor posture,sedentary,hereditary,posture
+28,arthritis,injury,genetics,spinal condition,injury,hereditary
+210,bully,stress,fear,psychological,stress,psychological
+36,Back Pain,Arthritis,Mental Attitude,other,spinal condition,psychological
+100,Herniated disc,Work,Weight gain,spinal condition,job,weight
+169,stress,injury,heredity,stress,injury,hereditary
+118,Neural Pathways,Neural Pathways,Neural Pathways,brain,brain,brain
+131,spondylolisthesis,scoliosis,gymnastics and aging,spinal condition,spinal condition,activity
+102,increased breast after breast feeding,plantar fascitis,extra weight,perinatal,stress,age
+30,Celiac/vitamin deficiency,stress,age,physiology (non-spinal),stress,age
+253,scoliosis,doing the wrong exercises,doing the wrong activities,spinal condition,activity,activity
+23,previous injury,sitting at work all the time,recent injury playing volleyball,injury,sedentary,injury
+194,Genes,poor lifting techniques,lack of education on lifting,hereditary,activity,activity
+180,snowboard accident,massage school injuey (pulling on arms/nerve pain in shoulders and arms),general walking/sitting/backpack lifestyle,injury,injury,activity
+255,Stress,Anxiety,Fatigue,stress,psychological,psychological
+262,"culture of pain, and many people 'showing' pain around me",perception of potential structural damage,stress as an amplifier,psychological,psychological,stress
+223,fear,multiple surgeries,lack of emotional support,psychological,injury,psychological
+177,improper lifting,poor posture,work injury,activity,posture,injury
+285,Ski wreck in 1981,raft accident in 2012,logging accident in 2008,injury,injury,injury
+64,Lack of stretching/exercise,high school pole vault,"scoliosis (although I've been told its not a factor, that it can't cause pain)",physiology (non-spinal),activity,spinal condition
+148,low speed car crash 30 years ago,running 30 miles a week,carrying an extra 10lb !,injury,activity,weight
+3,injury,reinjury,damage to nervs,injury,injury,physiology (non-spinal)
+48,nwevw compression in hip,feeling afraid when I expereince pain and feeling there is nothing i can do,Not listening and attending to my needs and doing too much for other people instead of attending to what i ned,spinal condition,psychological,psychological
+292,childbirth,ongoing activity,residual effects,perinatal,activity,other
+240,Hang gliding accident,Ski and bike accidents,numerous unnecessary back surgeries,injury,injury,injury
+230,Physical disconformity,Overuse of body,Poor posture,spinal condition,activity,posture
+239,pushing a car out of the snow then going to dance class,"weak biomechanics and abdominals, esp. after carrying twins full term",a career in dance,injury,perinatal,activity
+257,Automobile accident,Scoliosis,Hereditary,injury,spinal condition,hereditary
+195,injury,overweight,lack of physical activity,injury,weight,sedentary
+113,genetics,work,stress,hereditary,job,stress
+52,anxiety,muscle tension,mom,psychological,physiology (non-spinal),perinatal
+200,curvature of my spine,arthritis,over doing exercise,spinal condition,spinal condition,activity
+156,posture and lack of core strengh,sudden movements in sport activities,age,posture,injury,age
+29,illness/not taking care of myself,weight,stress,negligence,weight,stress
+101,thought patterns,weight,job,psychological,weight,job
+53,degenerative arthritis,age,activity,spinal condition,age,activity
+258,accident,activity,birth defect,injury,activity,hereditary
+246,lifting stuff,activities,diet,activity,activity,diet
+184,History of poor posture,Manual Labor,Genetics,posture,activity,hereditary
+115,Lifting heavy weights,Improper weight lifting form,Not having a strong enough core/lower back,activity,activity,physiology (non-spinal)
+136,Fell down my stairs,Fractured my sacrum,"It never healed properly, thus creating ongoing pain.",injury,injury,injury
+35,Lift injury,car accident,gymnastics,injury,injury,activity
+202,Being very active in life and not always taking care of myself,Genetic predisposition,repeated injury/stress to particular body part/location; similar to 1st most important,activity,hereditary,injury
+72,Car accident,limited physical therapy,too physical after accident,injury,negligence,activity
+146,growing too fast,bad posture,stress,physiology (non-spinal),posture,stress
+147,weight,exercise,age,weight,activity,age
+175,lifting wrong,not exercising,diet,activity,sedentary,diet
+46,past conditioning,fear,anxiety,psychological,psychological,psychological
+157,age and sports,accidents,anxiety,age,injury,psychological
+40,work-related stress,anxiety disorder,posture,stress,psychological,posture
+1,Curved spine,Lots of driving,Lots of tension in my body,spinal condition,sedentary,physiology (non-spinal)
+243,"Overuse (home landscaping, moving rock) when I was younger",Genetics,"poor body mechanics (jumping, etc.)",activity,hereditary,physiology (non-spinal)
+183,Anxiety,Stress,Fear,psychological,stress,psychological
+19,stress,genetics,sitting at a computer all day,stress,hereditary,sedentary
+78,High School Football,Car Accident,Posture,activity,injury,posture
+110,hard work,physical abuse,car accidents,job,injury,injury
+81,Internalizing a lot of anxiety and stress,Fear of injury,Tense muscles and little exercise,psychological,psychological,physiology (non-spinal)
+38,run over by vehicle as a pedestrian,"spine,pelvic,cervical damage and TBI",permanent injuries,injury,spinal condition,injury
+295,Undiagnosed fracture,Poor posture from fracture pain,Weak core and abdominal muscles,injury,posture,physiology (non-spinal)
+198,"traumatic injury from snowboarding accident, broke 7 ribs from fall over 5 feet","body shape, petite with large breasts",overactive nerves,injury,physiology (non-spinal),brain
+249,sitting too much,stress,age,sedentary,stress,age
+54,arthritis,fascial entrapment,psychological response to perceived pain,spinal condition,spinal condition,psychological
+283,back injury,osteroarthritis,arthritis in other locations,injury,spinal condition,physiology (non-spinal)
+150,conditioning,stress/lifestyle,genetics,psychological,stress,hereditary
+7,Car accident,Football injury,poor lifting,injury,injury,activity
+86,Structural damage - football,Inactive lifestyle - I sit a lot in front of a computer or in a car,Overweight and out of shape,injury,sedentary,weight
+261,Sitting over time,Stress,sports,sedentary,stress,activity
+164,Fallinjury,Large brests,Spine deformity,injury,physiology (non-spinal),spinal condition
+142,scoliosis,stress,school,spinal condition,stress,job
+15,Traumatic injury,Stress/Anxiety,Repressed emotions,injury,stress,psychological
+286,Jet ski accident,High school/college sports,lack of exercise,injury,activity,sedentary
+197,"sports injury- fall from 6 ft. snowboarding, broke 7 ribs",", undiagnosed injury and broken for 3 years, body compensating, overactive nerves",body frame small for large breasts,injury,injury,physiology (non-spinal)
+132,scoliosis,poor posture,sitting too much,spinal condition,posture,sedentary
+74,Moving things/bending,Standing in place for long periods,Walking with a heavy bag,activity,activity,activity
+288,"sports: Tumbling, distance Running",Work : carrying heavy items,arthritis and genetics,activity,job,hereditary
+18,sitting at a computer for many years,age,genetics,sedentary,age,hereditary
+221,injury,lack of proper exercise,sitting most of the day,injury,sedentary,sedentary
+59,Barre Method exercise,Cross country ski fall,Poor physical therapy,activity,injury,negligence
+228,scoliosis,age =  arthritis,injury,spinal condition,age,injury
+220,injury,not doing exercises,unfit,injury,negligence,physiology (non-spinal)
+62,Poor Posture,Heavy Lifting,Years of sitting down for work,posture,activity,sedentary
+9,bad posture,incorrect mattress type,advancing age,posture,other,age
+109,Stress,Competitive/Athlete Mindset,"Lack of sleep which becomes lack of personal care (exercise, eating well)",stress,psychological,other
+289,over estimated my own strength,denial of over exertion,weight,injury,activity,weight
+185,Stress,Lack of Stretching,Bad Posture,stress,physiology (non-spinal),posture
+70,childhood traumatic injury,overuse injuries,deferred pain from leg tightness/lack of stretching,injury,injury,negligence
+122,feeling tense; physically tensing up my body,general fear,feeling uncertain,physiology (non-spinal),psychological,psychological
+67,broken tail bone,genetic factor,random chance,injury,hereditary,other
+88,Sitting,Weight gain,Aging,sedentary,weight,age
+278,Childhood Scoliosis,Epidural,not asking for help lifting/lifting in correctly,spinal condition,injury,activity
+241,sports accident,unnecessary surgeries,lack of physical excercise,injury,injury,sedentary
+272,Being hit by a car,aggravating it during exercise,bad posture and poor core strength,injury,activity,posture
+176,Old injury,Poor posture,My normal job activities,injury,posture,job
+161,stress,anxiety,poor posture,stress,psychological,posture
+224,structure of my spine,muscle strength/weakness,inconsistent treatment/exercise,spinal condition,physiology (non-spinal),negligence
+297,I over worked my back lifting kegs at the GABF,"After handling kegs, I went and played ultimate Frisbee where the injury occurred.",I have weak muscles in my back?,injury,injury,physiology (non-spinal)
+160,development from birth,poor posture,sports/gymnastics,hereditary,posture,activity
+159,Bed sucks,bed sucks,slacking on back/core day,other,other,physiology (non-spinal)
+193,An initial injury a long time ago that healed,Brain pathways that developed an stayed even after healing,Negative emotions that used the pain pathways  that developed,injury,brain,psychological
+203,Lack of awareness about what was going on in my body,Pushing through the pain when it was indicative of something happening,Believing that the pain would be self-resolving,negligence,negligence,negligence
+171,Work,Muscle Weakness,Prior injury,job,physiology (non-spinal),injury
+11,work (as a massage therapist),stress,poor posture,job,stress,posture
+268,mood,outlook on life,anxious,psychological,psychological,psychological
+296,Over working my back muscles to cause spinal disc to bulge,Ultimate Frisbee,Heavy lifting,spinal condition,activity,activity
+238,pushing a car out of the snow 40 yrs ago,"dancing professionally, being active","weak abdominal wall, carrying twins full term",injury,activity,perinatal
+216,Muscle Tension,Stress,Anxiety,physiology (non-spinal),stress,psychological
+82,Scoliosis,Poor posture,Lifting many heavy things with poor form,spinal condition,posture,activity
+215,previous injury,previous use/activity,skeletal structure,injury,activity,spinal condition
+294,"Fractures of  T8 and T10 or T11 and receiving no treatment for them, because they were not diagnosed for 5 years",Weak core muscles,Poor posture from the vertebrae fractures,spinal condition,physiology (non-spinal),posture
+128,body type,age,muscle tone,physiology (non-spinal),age,physiology (non-spinal)
+226,early back injury,unwillingness to slow down,ageing,injury,activity,age
+189,sitting at a desk for long periods of time,bad (not enough support) shoes,not stretching after lifting weights,sedentary,other,physiology (non-spinal)
+170,Muscle weakness,Work/Driving,Stress,physiology (non-spinal),job,stress
+98,poor posture,possible injury,sleeping in a less than ideal positon,posture,injury,posture
+106,Golf,Anxiety,Basketball,activity,psychological,activity
+50,Morning routine,Expectation of pain,Nerves,activity,psychological,psychological
+247,lifting stuff,activities,diet,activity,activity,diet
+143,overuse,playing three sports in highschool,weight lifting trainer in high school taught us wrong technique for women - we did more weight less reps rather than the latter,activity,activity,activity
+196,Injury,Overuse,Neural pathways,injury,activity,brain
+152,yoga stretch,awkward fall,weakening of muscles,activity,injury,physiology (non-spinal)
+45,injury,diet,drugs/alcohol,injury,diet,other
+85,Initial football injury,Neural Pathways,Out of touch with body & feelings,injury,brain,psychological
+126,age,fall while skiing or snowboarding,stress,age,injury,stress
+205,heriditary,lifestyle,poor posture,hereditary,activity,posture
+254,herniated disc,pelvic alignment,stress,spinal condition,spinal condition,stress
+27,arthritis,failed psoas,whatever caused the above,spinal condition,physiology (non-spinal),other
+117,Genetics,Inactivity,Injuries,hereditary,sedentary,injury
+139,Doing too much at once,Not taking good care of myself,Just happens/part of life,activity,negligence,other
+32,Age,lifting a baby/toddler daily,Heredity?,age,perinatal,hereditary
+250,increase in cycling,aging,heredity,activity,age,hereditary
+274,Being extremely active,Old injuries,Psychological factors,activity,injury,psychological
+168,stress,nerve pain,activity,stress,other,activity
+116,improper weightlifting,wrestling,car acident,activity,activity,injury
+219,recklessness,carelessness,ignorance,negligence,negligence,negligence
+287,Jet ski accident,high impact sports,active lifestyle,injury,activity,activity
+97,genetics,bad posture,age,hereditary,posture,age
+63,Snowboarding,Mountain Biking,Lifestyle,activity,activity,activity
+39,"being run over by truck,as a pedestrian",permanent physical damage,aging,injury,injury,age
+151,School,Broken L5,Work,job,injury,job
+222,back surgery,lack of strengthening after surgery,years of dancing,injury,physiology (non-spinal),activity
+280,Guilt,Stress,Physical issues,psychological,stress,physiology (non-spinal)
+211,stuborness,anger,lack of police oversight,psychological,psychological,other
+112,genetics,work,stress,hereditary,job,stress
+61,Posture at the computer,Overexertion while working,Uncomfortable bed,posture,job,other
+201,injury,injury,continual activity,injury,injury,activity
+138,military,fall,poor aftercare,activity,injury,negligence
+135,Injury while hiking,repetitive high to low lifting,weight training,injury,injury,activity
+229,structural issues,fear,shame,injury,psychological,psychological
+22,previous injury,sitting at a desk job,being too active,injury,sedentary,activity
+204,medical,environmental,heriditary,injury,other,hereditary
+14,traumatic injury,determination to be active despite pain,stress,injury,activity,stress
+104,sports related injury,not getting initial treatment,ongoing stress related to work,injury,negligence,stress
+179,I don't know what caused it,Stress,Anxiety,other,stress,psychological
+4,scoliosis,ruptured discs,age,spinal condition,spinal condition,age
+165,Fall,Birth defect,Occupation (EMT),injury,hereditary,job
+68,stress,anxiety,tension,stress,psychological,psychological
+2,Poor sleep habits/bed,Lots of time driving,Pre-existing back condition,other,sedentary,spinal condition
