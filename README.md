@@ -24,4 +24,6 @@ The text-scaling analyses are in the `parrot` subfolder. See also the parrot too
 ## Dependencies
 
 CanlabCore (for various plotting and modelling functions):
-Parrot (for the analyses using that toolbox): 
+Parrot (for the analyses using that toolbox):
+brewermap for plot colors
+Mediation Toolbox for mediation analyses
