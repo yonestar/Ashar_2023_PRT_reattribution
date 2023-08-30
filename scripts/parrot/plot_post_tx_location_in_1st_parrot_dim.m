@@ -1,22 +1,19 @@
-basedir = '/Users/yoni/Repositories/OLP4CBP/scripts/analyses/semantic_analyses';
+clear all
 
-tabl = readtable(fullfile(basedir, 'parrot', 'document_scores_from_parrot.csv'));
+basedir = '/Users/yoni/Repositories/Ashar_2023_PRT_reattribution/';
 
-metatabl = readtable('/Users/yoni/Repositories/OLP4CBP/scripts/analyses/semantic_analyses/manual_codings/IPQlastitem_final FINAL CODED T2 only.csv');
+tabl = readtable(fullfile(basedir, 'scripts', 'parrot', 'document_scores_from_parrot.csv'));
 
-tabl.id = metatabl.Var1;
+% import this for metadata used below
+cats_wide = readtable(fullfile(basedir, 'data', 'manual_codings', 'IPQlastitem_final MERGED WIDE CATEGORIES.csv'));
+cats_wide = cats_wide(~isnan(cats_wide.pain_avg_t2_arm_1),:); % only keep completers
 
-% load in outcomes data
-basedir2 = '/Users/yoni/Repositories/OLP4CBP/data';
-load(fullfile(basedir2, 'all_subjects_outcomes_demographics.mat'))
-load(fullfile(basedir2, 'final_12mo_outcomes_wide.mat'))
+mymeta = cats_wide(:,{'id' 'group' 'pain_avg_baseline' 'pain_avg_t2_arm_1' 'age' 'gender'});
+tabl.id = cats_wide.id;
 
-mymeta = outcomes_wide(:,{'id' 'group' 'pain_avg_baseline' 'pain_avg_t2_arm_1' });
-
-age_gender = all_subjects_outcomes_demographics(all_subjects_outcomes_demographics.time==1,{'id', 'age', 'gender'});
-
+% merge in metadata with text scaling data
 tabl = join(tabl, mymeta);
-tabl = join(tabl, age_gender);
+
 
 %% scatter in first dim
 
@@ -50,7 +47,7 @@ set(gcf, 'Position', [160        393        1068         162])
 g = gcf;
 g.PaperSize = [20 5]; % keep PaperPositionMode at manual. Might need to adjust PaperPositionSize though, or, this variable
 
-saveas(gcf, fullfile(basedir, 'figures', 'document_scores_1st_dim.pdf'))
+%saveas(gcf, fullfile(basedir, 'figures', 'document_scores_1st_dim.pdf'))
 
 %% ranksum test, effect size PRT vs PLA
 clc
@@ -68,5 +65,5 @@ g.hedgesg, g.hedgesgCi
 
 %% does semantic location relate to pain?
 tabl.delta_pain_z = zscore(tabl.pain_avg_t2_arm_1 - tabl.pain_avg_baseline);
-tabl.X1_z = zscore(tabl.X1)
+tabl.X1_z = zscore(tabl.X1);
 fitglm(tabl, 'delta_pain_z ~ group*X1_z + age + gender', 'CategoricalVars','group')

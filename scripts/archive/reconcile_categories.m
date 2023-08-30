@@ -1,4 +1,4 @@
-basedir = '/Users/yoni/Repositories/OLP4CBP/scripts/analyses/semantic_analyses/manual_codings';
+basedir = '/Users/yoni/Repositories/Ashar_2023_PRT_reattribution/data/manual_codings';
 
 f1 = readtable(fullfile(basedir, 'IPQlastitem_final_deid categories YA.csv'));
 f2 = readtable(fullfile(basedir, 'IPQlastitem_final_deid categories EL.csv'));
@@ -18,7 +18,7 @@ f2.cat3 = lower(f2.cat3);
 %% how many total diffs?
 clc
 numdiffs = 0;
-for i=280:300%height(f1)  -- I reconciled up through 150. Notes to self: MB vs STR ratings are highly reliable between coders, but categorizations are quite variable and/or require much more training and clear boundaries and procedures when attributions are multi-modal/complex
+for i=1:height(f1)%  -- I reconciled up through 150. Notes to self: MB vs STR ratings are highly reliable between coders, but categorizations are quite variable and/or require much more training and clear boundaries and procedures when attributions are multi-modal/complex
     
     if ~isequal(f1{i, end-2:end}, f2{i, end-2:end})
         disp([f1(i,:); f2(i,:)])

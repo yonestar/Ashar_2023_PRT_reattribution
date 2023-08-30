@@ -154,6 +154,46 @@ fliplr(round(percentages'*100))
 fliplr(rawcounts')
 yticklabels
 
+%% make a stacked bar graph -- COMBINED CONTROLS
+
+% combine final rows of above
+percentages_combined(3:4,:) = percentages(5:6,:);
+percentages_combined(1,:) = mean(percentages([1 3],:));
+percentages_combined(2,:) = mean(percentages([2 4],:));
+
+create_figure('stackedbar 2'); 
+h = barh([1 2 4 5], percentages_combined*100, 'stacked');
+set(gca, 'FontSize', 18)
+xlim([0 130]) % to make room for legend
+legend(labels, 'FontSize', 18, 'Location', 'east')
+xlabel('% attributions')
+
+colors = brewermap(numel(labels), 'Paired'); % qualitative
+
+% switch colors for beauty
+tmp = colors(3,:);
+colors(3,:) = colors(4,:);
+colors(4,:) = tmp;
+
+tmp = colors(1,:);
+colors(1,:) = colors(2,:);
+colors(2,:) = tmp;
+
+tmp = colors(11,:);
+colors(11,:) = colors(10,:);
+colors(10,:) = tmp;
+
+% Set colors for each bar
+for i = 1:numel(labels)
+    h(i).FaceColor = colors(i,:);
+end
+
+% label
+yticks = 1:5;
+yticklabels = {'PRT Pre', 'PRT Post', '', 'Controls Pre', 'Controls Post'};  % Replace with your desired labels
+set(gca, 'YTick', yticks, 'YTickLabel', flip(yticklabels), 'XTick', 0:20:100);
+
+
 %% create MBA scores for  psych/brain/stress and write back to file
 
 % make a score for # of psych/brain
@@ -300,10 +340,10 @@ X = cats_long.backpain_length(wh);
 %X = cats.age(wh);
 X = cats_long.pain_avg(wh);
 % 
-% X = cats.tsk11(wh);
-% X = cats.pcs(wh);
+% X = cats_long.tsk11(wh);
+% X = cats_long.pcs(wh);
 % 
-% X = cats.sopa_emo(wh);
+X = cats_long.sopa_emo(wh);
 
 clc
 if 0
@@ -439,12 +479,12 @@ function STATS =  mediation_to_follow_up_combined_controls(outcomes_wide, Mname,
     clc, STATS = {};
     % loop through outcome timepoints (Y). X and M are same for all
     % iteration
-    for i=1:6 % from post-tx to last timepiont
+    for i=6 % from post-tx to last timepiont
 
         print_header(['M = Delta ' Mname ' from baseline to post-tx'], ['Y = ' Yname ' at ' outcome.xlab{i + posttx_ind - 1}])
         Y = outcome_datmat(:, i + posttx_ind - 1); % outcome at given timepoint
 
-        [~, stats] = mediation(X,scale(Y),scale(M), 'verbose',  'boot', 'bootsamples', 10000, 'covs', cov);
+        [~, stats] = mediation(X,scale(Y),scale(M), 'verbose',  'boot', 'bootsamples', 10000, 'covs', cov, 'doCIs');
                  
         STATS.a(i, 1) = stats.z(1); % mean(1) ./ stats.ste(1);
         STATS.a_p(i, 1) = stats.p(1);
